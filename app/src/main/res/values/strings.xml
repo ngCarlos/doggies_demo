@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Challenge</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Doggies</string>
+    <string name="second_fragment_label">Create Doggie</string>
+    <string name="third_fragment_label">""</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="empty_list">You have no dogs.\nWhy not add some</string>
+    <string name="dog_name">Name</string>
+    <string name="dog_age">Age</string>
+    <string name="dog_personality">Personality</string>
+
+    <string name="dog_age_display">Age: %1$d</string>
+    <string name="dog_gender_display">Gender: %1$s</string>
+    <string name="dog_personality_display">Personality: %1$s</string>
+
+    <string name="add_message">A new dog has been saved</string>
+    <string name="error_empty">Some fields are empty</string>
+    <string name="error_database">Something happened, try again later</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="double_margin">32dp</dimen>
+    <dimen name="image_list_size">64dp</dimen>
+
+    <!-- FONT SIZES -->
+    <dimen name="font_size_balance">32sp</dimen>
+    <dimen name="font_size_heading1">24sp</dimen>
+    <dimen name="font_size_heading2">20sp</dimen>
+    <dimen name="font_size_heading3">18sp</dimen>
+    <dimen name="font_size_body">16sp</dimen>
+    <dimen name="font_size_caption">14sp</dimen>
+    <dimen name="font_size_captioncenter">12sp</dimen>
+    <dimen name="font_size_description">12sp</dimen>
+    <dimen name="font_size_small">11sp</dimen>
+</resources>
